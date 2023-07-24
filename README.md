@@ -1,1 +1,2 @@
-# odoo
+# odoo docker-compose up -d
+
